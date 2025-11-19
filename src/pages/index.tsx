@@ -317,9 +317,9 @@ function Content({ isEdit, edits }: { isEdit: boolean; edits: FieldEdit[] }) {
           <a
             target="_blank"
             rel="noopener"
-            href="https://vercel.com/docs/concepts/edge-network/overview"
+            href="https://technologyback.com/"
           >
-            nearest location
+            garengongko
           </a>
           .
         </Malleable>
